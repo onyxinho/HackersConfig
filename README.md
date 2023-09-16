@@ -5,6 +5,6 @@ Let's assume you downloaded a new Linux and want to put the pentest tools on it.
 # Installation
 How to Install?
 
-- git clone https://github.com/onyxinho/HackersConfig/tree/download
+- git clone https://github.com/onyxinho/HackersConfig
 - chmod +x hackersconfig
 - ./hackersconfig
