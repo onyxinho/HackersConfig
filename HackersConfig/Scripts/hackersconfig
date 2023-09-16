@@ -1,0 +1,13 @@
+git clone https://github.com/onyxinho/HackersConfig
+
+sudo apt update
+sudo apt upgrade
+
+sudo apt install nmap
+sudo apt install tshark
+sudo apt install sqlmap
+sudo apt install git
+sudo apt install wget
+sudo apt install hydra
+
+printf "Installed Correctly!"
